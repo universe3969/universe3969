@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm YuHeng Jiang</h1>
 <h3 align="center">A passionate fullstack developer in NYC</h3>
 ```
-{
   name: YuHeng Jiang
   located_in: Queens, NY
   current_job: Full Stack Developer
