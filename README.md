@@ -21,7 +21,7 @@
   2023 Goals: ["Create 12 Projects and learn at least 4 new Technologies."]
   hobbies: ["Gaming", "Sports", "Reading great books written by great men/women in history", "Listening to great speakers", "Watch thought provoking movies"]
 }
-```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuheng jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuheng jiang" height="30" width="40" /></a>
