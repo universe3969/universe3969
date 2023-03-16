@@ -5,7 +5,7 @@
   name: YuHeng Jiang
   located_in: Queens, NY
   current_job: Full Stack Developer
-  education:
+  education: {
     [
       'BA in economics at Binghamton University',
       'Hack Reactor Immersive Program'
@@ -16,8 +16,7 @@
       "Web Development",
       "Game Development"
     ]
-
-  currently_learning: ["Docker, Kubernetes and React Native"]
+  }
   2023 Goals: ["Create 12 Projects and learn at least 4 new Technologies."]
   hobbies: ["Gaming", "Sports", "Reading great books written by great men/women in history", "Listening to great speakers", "Watch thought provoking movies"]
 ```
