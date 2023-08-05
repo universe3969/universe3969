@@ -2,22 +2,21 @@
 <h3 align="center">A passionate fullstack developer in NYC</h3>
 
 ```
-  name: YuHeng Jiang
-  located_in: Queens, NY
-  current_job: Full Stack Developer
-  education: {
+  name: "YuHeng Jiang",
+  located_in: "Queens, NY",
+  current_job: "Full Stack Developer",
+  education:
     [
       'BA in economics at Binghamton University',
       'Hack Reactor Immersive Program'
-    ]
+    ],
 
   fields_of_interests:
     [
       "Web Development",
       "Game Development"
-    ]
-  }
-  2023 Goals: ["Create 12 Projects and learn at least 4 new Technologies."]
+    ],
+  2023 Goals: ["Create 12 Projects and learn at least 4 new Technologies.", "Find a software engineering job"]
   hobbies: ["Gaming", "Sports", "Reading great books written by great men/women in history", "Listening to great speakers", "Watch thought provoking movies"]
 ```
 
